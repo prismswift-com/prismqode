@@ -52,9 +52,11 @@ Open a project, chat with a coding agent, edit files, run terminals — on **you
 | | Minimum | Recommended |
 |--|---------|-------------|
 | OS | Windows 10+, macOS 12+, Linux x64 | Latest stable |
-| RAM | 8 GB | **16 GB** |
-| Disk | ~2 GB (app/engine) | **11+ GB free** for local coding model (~9 GB download) |
+| RAM | 8 GB | **12 GB** |
+| Disk | ~2 GB (app/engine) | **6+ GB free** for local coding model (~4.7 GB download) |
 | Network | Once, for first setup | Optional later (external AI only) |
+
+Default local model: **Prismqode Coder 7b** (~4.7 GB, one-time).
 
 ---
 
@@ -96,12 +98,6 @@ Prismqode — local AI IDE, free forever, offline after setup, optional cloud pr
 
 ## Download
 
-| Platform | Available |
-|----------|------|
-| macOS Apple Silicon | `Yes` |
-| macOS Intel | `Yes` |
-| Windows | `Yes` |
-| Linux | `Yes` |
 
 **[Download all platforms →](https://prismswift.com/prismqode.html)**
 
